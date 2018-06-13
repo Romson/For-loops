@@ -1,20 +1,4 @@
-/*
-//Print out hello (for loop)
-var str = 'hello';
-
-for(var i = 0; i < str.length; i++) {
-	console.log(str[i]);
-}
-
-//While loop variant for the above for loop
-var str = 'hello';
-var count = 0;
-
-while(count < str.length) {
-    console.log(str[count]);
-    count++;
-}
-*/
+/* While loop version: https://github.com/Romson/While-loops/blob/master/whileLoops.js */
 
 //Print all numbers between -10 and 19
 console.log('Print all numbers between -10 and 19');
