@@ -1,4 +1,5 @@
 /* While loop version: https://github.com/Romson/While-loops/blob/master/whileLoops.js */
+/* As you can see, For loops take fewer lines of code to achieve the same compared to While loops. */
 
 //Print all numbers between -10 and 19
 console.log('Print all numbers between -10 and 19');
